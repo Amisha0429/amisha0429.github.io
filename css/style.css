@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
 @import url('http://fonts.cdnfonts.com/css/alliance-no1');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p&family=Noto+Sans&display=swap');
 
 .styled {
     border: 0;
@@ -27,7 +28,7 @@
 
 
 body {
-    font-family: "Avenir", sans-serif;
+    font-family: "Noto Sans", sans-serif;
     text-align: center;
     color: #fff;
     background-color: #1a1a1a;
